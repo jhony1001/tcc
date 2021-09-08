@@ -1,0 +1,9 @@
+.footer {
+  min-height: 10vh;
+}
+
+.footerCard {
+  border: 1px solid black !important;
+  height: 2rem;
+}
+
