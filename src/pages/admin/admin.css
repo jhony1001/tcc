@@ -1,0 +1,5 @@
+.admin-card-hearder{
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+}
